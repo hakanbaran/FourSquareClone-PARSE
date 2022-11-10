@@ -21,7 +21,7 @@ Using "Parse"; It is an application where cafes can share their name, type, loca
 
 ### Using Network
 
-- Parse
+- "Parse"
 
 ## Application Video
 
